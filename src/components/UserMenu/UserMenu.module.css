@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.button {
+  width: 100px;
+  background-color: rgb(224, 224, 224);
+  color: black;
+  border: 1px solid black;
+}
